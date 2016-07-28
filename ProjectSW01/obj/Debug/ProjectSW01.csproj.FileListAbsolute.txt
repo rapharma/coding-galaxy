@@ -1,0 +1,6 @@
+c:\users\raphan\documents\visual studio 2015\Projects\ProjectSW01\ProjectSW01\bin\Debug\ProjectSW01.exe.config
+c:\users\raphan\documents\visual studio 2015\Projects\ProjectSW01\ProjectSW01\bin\Debug\ProjectSW01.exe
+c:\users\raphan\documents\visual studio 2015\Projects\ProjectSW01\ProjectSW01\bin\Debug\ProjectSW01.pdb
+c:\users\raphan\documents\visual studio 2015\Projects\ProjectSW01\ProjectSW01\obj\Debug\ProjectSW01.exe
+c:\users\raphan\documents\visual studio 2015\Projects\ProjectSW01\ProjectSW01\obj\Debug\ProjectSW01.pdb
+C:\Users\Raphan\Documents\Visual Studio 2015\Projects\ProjectSW01\ProjectSW01\obj\Debug\ProjectSW01.csprojResolveAssemblyReference.cache

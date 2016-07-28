@@ -1,0 +1,6 @@
+C:\Users\Raphan\Documents\Visual Studio 2015\Projects\ProjectSW01\ProjectSW01\obj\Debug\ProjectSW.csprojResolveAssemblyReference.cache
+C:\Users\Raphan\Documents\Visual Studio 2015\Projects\ProjectSW01\ProjectSW01\obj\Debug\ProjectSW01.exe
+C:\Users\Raphan\Documents\Visual Studio 2015\Projects\ProjectSW01\ProjectSW01\obj\Debug\ProjectSW01.pdb
+C:\Users\Raphan\Documents\Visual Studio 2015\Projects\ProjectSW01\ProjectSW01\bin\Debug\ProjectSW01.exe.config
+C:\Users\Raphan\Documents\Visual Studio 2015\Projects\ProjectSW01\ProjectSW01\bin\Debug\ProjectSW01.exe
+C:\Users\Raphan\Documents\Visual Studio 2015\Projects\ProjectSW01\ProjectSW01\bin\Debug\ProjectSW01.pdb
