@@ -19,6 +19,7 @@ namespace ProjectSW
 
             string[] characters = { "Luke", "R2-D2", "Darth", "Han" };
 
+            //loop
             foreach (string s in characters)
             {
                 if (s == "Luke" || s == "Darth")
