@@ -9,7 +9,7 @@ namespace ProjectSW
     class Program
     {
         /// <summary>
-        /// Coding in Star Wars theme
+        /// Code loop example in Star Wars theme
         /// </summary>
         /// Author:     rapharma
 
